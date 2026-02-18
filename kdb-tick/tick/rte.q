@@ -12,7 +12,7 @@ lastQuote:([sym:`$()] time:`timespan$(); ask:`float$(); bid:`float$();
 lastTrade:([sym:`$()] time:`timespan$(); price:`float$(); size:`float$(); 
            side:`$(); exchange:`$())
 
-// Aggregation tables
+// Aggregation tables added
 tradeAgg:([sym:`$()] maxPrice:`float$(); minPrice:`float$(); 
           totalVolume:`float$(); tradeCount:`long$())
 
