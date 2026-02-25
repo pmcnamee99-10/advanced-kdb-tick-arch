@@ -1,0 +1,41 @@
+{
+    "components": {
+        "tp": {
+            "name": "Tickerplant",
+            "script": "tick.q",
+            "port": 5001,
+            "args": "schema ."
+        },
+        "rdb1": {
+            "name": "RDB1",
+            "script": "tick/rdb1.q",
+            "port": 5002,
+            "args": ""
+        },
+        "rdb2": {
+            "name": "RDB2",
+            "script": "tick/rdb2.q",
+            "port": 5003,
+            "args": ""
+        },
+        "cep": {
+            "name": "CEP",
+            "script": "tick/cep.q",
+            "port": 5004,
+            "args": ""
+        },
+        "feed": {
+            "name": "Feed",
+            "script": "tick/feed.q",
+            "port": 5025,
+            "args": ""
+        }
+    },
+    "directories": {
+        "base": "/home/pmcnamee/advanced-kdb-tick-arch/kdb-tick",
+        "logs": "/home/pmcnamee/advanced-kdb-tick-arch/kdb-tick",
+        "db": "/home/pmcnamee/advanced-kdb-tick-arch/kdb-tick"
+    },
+    "startup_order": ["tp", "rdb1", "cep", "rdb2", "feed"],
+    "shutdown_order": ["feed", "rdb2", "cep", "rdb1", "tp"]
+}

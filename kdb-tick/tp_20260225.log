@@ -1,0 +1,116 @@
+'2026.02.25T11:17:08.421 tick.q. OS reports: No such file or directory
+2026.02.25D11:19:18.592866551 | User:pmcnamee | INFO | LOGGING LOADED | Mem:390240
+-1
+"kdb+tick 2.8 2014.03.12"
+TP started with stats logging (every 60s)
+Stats logged: 2026.02.25D11:20:17.639528937
+Stats logged: 2026.02.25D11:21:17.597538011
+2026.02.25D11:22:15.093977887 | User:pmcnamee | INFO | LOGGING LOADED | Mem:390240
+-1
+"kdb+tick 2.8 2014.03.12"
+TP started with stats logging (every 60s)
+Stats logged: 2026.02.25D11:23:14.100732604
+Stats logged: 2026.02.25D11:24:14.123685218
+Stats logged: 2026.02.25D11:25:14.129914372
+Stats logged: 2026.02.25D11:26:14.096442730
+Stats logged: 2026.02.25D11:27:14.144711033
+Stats logged: 2026.02.25D11:28:14.146972137
+Stats logged: 2026.02.25D11:29:14.129787872
+Stats logged: 2026.02.25D11:30:14.145360125
+Stats logged: 2026.02.25D11:31:14.146071245
+Stats logged: 2026.02.25D11:32:14.144059472
+Stats logged: 2026.02.25D11:33:14.146812032
+Stats logged: 2026.02.25D11:34:14.104409887
+Stats logged: 2026.02.25D11:35:14.145018266
+Stats logged: 2026.02.25D11:36:14.146452358
+Stats logged: 2026.02.25D11:37:14.146782414
+Stats logged: 2026.02.25D11:38:14.148201405
+'2026.02.25T11:40:32.717 logging.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick.q:2: \l logging.q
+                                                                ^
+'2026.02.25T11:42:19.007 advanced-kdb-tick-arch/logging.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick.q:2: \l advanced-kdb-tick-arch/logging.q
+                                                                ^
+'2026.02.25T11:44:27.062 home/pmcnamee/advanced-kdb-tick-arch/logging.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick.q:2: \l home/pmcnamee/advanced-kdb-tick-arch/logging.q
+                                                                ^
+'2026.02.25T11:46:53.359 kdb-tick/logging.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick.q:2: \l kdb-tick/logging.q
+                                                                ^
+"kdb+tick 2.8 2014.03.12"
+TP started with stats logging (every 60s)
+Stats logged: 2026.02.25D11:49:51.381437624
+Stats logged: 2026.02.25D11:50:51.421612802
+Stats logged: 2026.02.25D11:51:51.423456121
+Stats logged: 2026.02.25D11:52:51.386613155
+Stats logged: 2026.02.25D11:53:51.422153168
+Stats logged: 2026.02.25D11:54:51.420712390
+Stats logged: 2026.02.25D11:55:51.423191385
+Stats logged: 2026.02.25D11:56:51.421868219
+Stats logged: 2026.02.25D11:57:51.402122862
+Stats logged: 2026.02.25D11:58:51.421574883
+Stats logged: 2026.02.25D11:59:51.422405295
+Stats logged: 2026.02.25D12:00:51.421216114
+"kdb+tick 2.8 2014.03.12"
+TP started with stats logging (every 60s)
+Stats logged: 2026.02.25D12:02:23.900235450
+Stats logged: 2026.02.25D12:03:23.900273484
+Stats logged: 2026.02.25D12:04:23.850084792
+Stats logged: 2026.02.25D12:05:23.861347869
+Stats logged: 2026.02.25D12:06:23.893158053
+Stats logged: 2026.02.25D12:07:23.851995901
+Stats logged: 2026.02.25D12:08:23.902007250
+Stats logged: 2026.02.25D12:09:23.885044007
+Stats logged: 2026.02.25D12:10:23.894996586
+Stats logged: 2026.02.25D12:11:23.865426264
+Stats logged: 2026.02.25D12:12:23.875603104
+Stats logged: 2026.02.25D12:13:23.850930322
+Stats logged: 2026.02.25D12:14:23.901048889
+Stats logged: 2026.02.25D12:15:23.869245722
+Stats logged: 2026.02.25D12:16:23.853685469
+Stats logged: 2026.02.25D12:17:23.879951722
+Stats logged: 2026.02.25D12:18:23.900217114
+Stats logged: 2026.02.25D12:19:23.854912348
+Stats logged: 2026.02.25D12:20:23.903425809
+Stats logged: 2026.02.25D12:21:23.874312166
+Stats logged: 2026.02.25D12:22:23.878058994
+Stats logged: 2026.02.25D12:23:23.859748638
+Stats logged: 2026.02.25D12:24:23.900814465
+Stats logged: 2026.02.25D12:25:23.891757435
+Stats logged: 2026.02.25D12:26:23.890378654
+Stats logged: 2026.02.25D12:27:23.859564564
+Stats logged: 2026.02.25D12:28:23.900754023
+Stats logged: 2026.02.25D12:29:23.865133399
+Stats logged: 2026.02.25D12:30:23.900461567
+Stats logged: 2026.02.25D12:31:23.856485281
+Stats logged: 2026.02.25D12:32:23.855118639
+Stats logged: 2026.02.25D12:33:23.850713910
+Stats logged: 2026.02.25D12:34:23.865041434
+Stats logged: 2026.02.25D12:35:23.851279891
+Stats logged: 2026.02.25D12:36:23.855547971
+Stats logged: 2026.02.25D12:37:23.867537353
+Stats logged: 2026.02.25D12:38:23.875064236
+Stats logged: 2026.02.25D12:39:23.850076243
+Stats logged: 2026.02.25D12:40:23.901313862
+Stats logged: 2026.02.25D12:41:23.902367502
+Stats logged: 2026.02.25D12:42:23.888848019
+Stats logged: 2026.02.25D12:43:23.871069636
+Stats logged: 2026.02.25D12:44:23.856563942
+Stats logged: 2026.02.25D12:45:23.850930943
+Stats logged: 2026.02.25D12:46:23.852628617
+Stats logged: 2026.02.25D12:47:23.879441253
+Stats logged: 2026.02.25D12:48:23.866620462
+Stats logged: 2026.02.25D12:49:23.904542977
+Stats logged: 2026.02.25D12:50:23.901195809
+Stats logged: 2026.02.25D12:51:23.899557963
+Stats logged: 2026.02.25D12:52:23.900734809
+Stats logged: 2026.02.25D12:53:23.873589313
+Stats logged: 2026.02.25D12:54:23.901432126
+Stats logged: 2026.02.25D12:55:23.902607791
+Stats logged: 2026.02.25D12:56:23.901165709
+Stats logged: 2026.02.25D12:57:23.902698840
+Stats logged: 2026.02.25D12:58:23.903780221
+Stats logged: 2026.02.25D12:59:23.882465866
+Stats logged: 2026.02.25D13:00:23.901435756
+Stats logged: 2026.02.25D13:01:23.909240862
+'2026.02.25T13:50:39.996 timeout reporting -- exiting

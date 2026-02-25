@@ -1,0 +1,25 @@
+'2026.02.25T11:22:22.450 -p
+'2026.02.25T11:26:09.208 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:38:51.254 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:40:40.521 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:42:28.362 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:44:36.380 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:47:02.459 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:49:01.790 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^
+'2026.02.25T11:58:37.710 schema.q. OS reports: No such file or directory
+  [2]  /home/pmcnamee/advanced-kdb-tick-arch/kdb-tick/tick/rdb2.q:3: \l schema.q
+                                                                     ^

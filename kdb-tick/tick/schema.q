@@ -3,7 +3,7 @@
 trade:([] time:`timespan$();
  sym:`$();
  price:`float$();
-  size:`float$();
+  size:`long$();
   side:`$();
   exchange:`$());
 
@@ -18,3 +18,13 @@ quote:([] time:`timespan$();
    askSize:`long$();
    bidSize:`long$(); 
    mode:`long$());
+
+
+// Defining Aggregration table
+agg:([] time:`timespan$();
+          sym:`$();
+          maxTrade:`float$();
+          minTrade:`float$();
+          volume:`long$();
+          spread:`float$())
+ 
